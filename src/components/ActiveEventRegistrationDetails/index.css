@@ -1,0 +1,84 @@
+/* Write your CSS here */
+
+.intial-state {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px;
+}
+.intial-state-text {
+  text-align: center;
+  color: #323f4b;
+  font-size: 40px;
+}
+
+.yet-to-register {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.yet-to-register-img {
+  height: 250px;
+  width: 70%;
+}
+.yet-to-register-text {
+  text-align: center;
+  color: #64748b;
+  font-size: 20px;
+}
+.yet-to-register-btn {
+  background-color: #0967d2;
+  outline: none;
+  border: none;
+  width: 70%;
+  color: #ffffff;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.registered {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.registered-img {
+  height: 150px;
+  width: 40%;
+}
+.registered-text {
+  text-align: center;
+  color: #323f4b;
+  font-size: 28px;
+}
+
+.registrations-closed {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.registrations-closed-img {
+  height: 250px;
+  width: 70%;
+}
+.registrations-closed-heading {
+  text-align: center;
+  color: #323f4b;
+  font-size: 28px;
+}
+.registrations-closed-text {
+  text-align: center;
+  color: #323f4b;
+  font-size: 20px;
+}

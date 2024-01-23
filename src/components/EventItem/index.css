@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.eventItem-card {
+  width: 50vw;
+}
+.event-item-btn {
+  border: none;
+  background-color: transparent;
+  width: 100%;
+  margin-top: 20px;
+}
+.event-item-btn-img {
+  height: 150px;
+  width: 100%;
+}
+.event-item-name {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: start;
+}
+.event-item-location {
+  color: #f8fafc;
+  font-size: 15px;
+  text-align: start;
+}
